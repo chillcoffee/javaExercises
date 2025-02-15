@@ -7,6 +7,7 @@ public class CalculateMyAllowance {
         Daily daily = new Daily();
         daily.getExpenses();
         daily.calculateTotal();
-        daily.displayExpense();       
+        daily.displayExpense();
+        //NO sout STATEMENTS ON YOUR psvm
     }  
 }
